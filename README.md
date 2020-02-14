@@ -1,16 +1,16 @@
 # Data Structures - Grid World
-Created a world on a 5x5 grid, where each index represents a neighborhood.
+Created a world on a 5x5 grid, where each index represents a neighborhood. <br />
 
-Different commands include:
-    birth <row> <col>
-    death <id>
-    move <id> <target-row> <target-col>
-    members <row> <col>
-    whereis <id> 
-    population 
-    population <row> <col>
-    num_rows
-    num_cols
+Different commands include: <br />
+    birth <row> <col> <br />
+    death <id> <br />
+    move <id> <target-row> <target-col> <br />
+    members <row> <col> <br />
+    whereis <id> <br />
+    population <br />
+    population <row> <col> <br />
+    num_rows <br />
+    num_cols <br />
     quit
 
 
